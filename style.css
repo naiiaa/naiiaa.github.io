@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(197, 140, 204);
+    
+    ;
+}
+
+.header {
+    position: static;
+    border: 3px solid rgb(134, 114, 139)
+
+}
